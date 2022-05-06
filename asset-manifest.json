@@ -1,16 +1,12 @@
 {
   "files": {
-    "main.css": "/reactKangarooms/static/css/main.073c9b0a.css",
-    "main.js": "/reactKangarooms/static/js/main.432e03ae.js",
-    "static/js/787.ec704a7a.chunk.js": "/reactKangarooms/static/js/787.ec704a7a.chunk.js",
-    "static/media/logo.svg": "/reactKangarooms/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/reactKangarooms/static/css/main.31d6cfe0.css",
+    "main.js": "/reactKangarooms/static/js/main.28af14ce.js",
     "index.html": "/reactKangarooms/index.html",
-    "main.073c9b0a.css.map": "/reactKangarooms/static/css/main.073c9b0a.css.map",
-    "main.432e03ae.js.map": "/reactKangarooms/static/js/main.432e03ae.js.map",
-    "787.ec704a7a.chunk.js.map": "/reactKangarooms/static/js/787.ec704a7a.chunk.js.map"
+    "main.28af14ce.js.map": "/reactKangarooms/static/js/main.28af14ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.432e03ae.js"
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.28af14ce.js"
   ]
 }
