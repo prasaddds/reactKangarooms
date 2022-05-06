@@ -3,7 +3,6 @@ import InputField2 from "./InputField1";
 import InputField3 from "./InputField2";
 import InputField4 from "./inputField4";
 import RegisterButton from "./RegisterButton";
-var NoAccount=false;
 function SignUpForm()
 {
     return (
