@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "./Card";
-import contacts from "./Contacts";
+import contacts from "./Contact";
 function createCard(contact)
 {
     return <Card key={contact.id} name={contact.name}  imgURL={contact.imgURL}
