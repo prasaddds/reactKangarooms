@@ -1,5 +1,4 @@
 import React from "react";
-import Header from "./Header";
 function Card(props) {
   return (
     <div className="card" style={{ width: "18rem" }}>
