@@ -1,7 +1,6 @@
 import React from "react";
-import InputField2 from "../InputField1";
-import InputField3 from "../InputField2";
-import InputField4 from "../inputField4";
+import InputField1 from "../InputField1";
+import InputField2 from "../InputField2";
 import RegisterButton from "../RegisterButton";
 import Header from "../Header";
 import Navbar from "./Navbar";
@@ -14,9 +13,8 @@ function SignUpForm()
         <Navbar/>
         <form className="formclass1 form">
             <h1>Fill up your details</h1>
+            <InputField1/>
             <InputField2/>
-            <InputField3/>
-            <InputField4/>
             <RegisterButton/>
         </form>
         </div>

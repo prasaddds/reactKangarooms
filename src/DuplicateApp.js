@@ -4,6 +4,7 @@ import About from "./Components/About";
 import ContactUs from "./Components/ContactUs";
 import Vizag from "./Components/Vizag";
 import SignUpForm from "./Components/SignupForm";
+import LoginForm from "./Components/LoginForm";
 function DuplicateApp2() {
     return (
         <>
@@ -14,6 +15,7 @@ function DuplicateApp2() {
             <Route path="ContactUs" element={<ContactUs/>}/>
             <Route path="Vizag" element={<Vizag/>}/>
             <Route path="SignUpForm" element={<SignUpForm/>}/>
+            <Route path="LoginForm" element={<LoginForm/>}/>
         </Routes>
         </>
     )

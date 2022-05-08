@@ -3,7 +3,7 @@ function InputField2()
 {
     return (
         <div> <br/>
-            <input type="text" placeholder="Enter your name"/> <br/><br/>
+            <input type="text" placeholder="Email"/> <br/><br/>
         </div>
     )
 }
