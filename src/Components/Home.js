@@ -3,6 +3,7 @@ import Header from "../Header";
 import "./HomeCss.css";
 import Navbar from "./Navbar";
 import { Link } from "react-router-dom";
+import "../style1.css";
 function Home()
 {
     return (

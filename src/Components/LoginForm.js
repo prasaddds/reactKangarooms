@@ -4,7 +4,6 @@ import InputField2 from "../InputField2";
 import RegisterButton from "../RegisterButton";
 import Header from "../Header";
 import Navbar from "./Navbar";
-import "../style2.css";
 function SignUpForm()
 {
     return (

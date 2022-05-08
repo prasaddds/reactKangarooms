@@ -3,7 +3,7 @@ import Home from "./Components/Home";
 import About from "./Components/About";
 import ContactUs from "./Components/ContactUs";
 import Vizag from "./Components/Vizag";
-import SignUpForm from "./Components/SignupForm";
+import SignUpForm2 from "./Components/SignupForm2";
 import LoginForm from "./Components/LoginForm";
 function DuplicateApp2() {
     return (
@@ -14,7 +14,7 @@ function DuplicateApp2() {
             <Route path='About' element={<About />} />
             <Route path="ContactUs" element={<ContactUs/>}/>
             <Route path="Vizag" element={<Vizag/>}/>
-            <Route path="SignUpForm" element={<SignUpForm/>}/>
+            <Route path="SignUpForm2" element={<SignUpForm2/>}/>
             <Route path="LoginForm" element={<LoginForm/>}/>
         </Routes>
         </>

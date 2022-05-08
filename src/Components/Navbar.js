@@ -21,7 +21,7 @@ function Navbar()
               <Link to='/LoginForm' className="nav-link active" aria-current="page">Login</Link>
               </li>
               <li className="nav-item">
-              <Link to='/SignUpForm' className="nav-link active" aria-current="page">Signup</Link>
+              <Link to='/SignUpForm2' className="nav-link active" aria-current="page">Signup</Link>
               </li>
             </ul>
           </div>
