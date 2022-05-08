@@ -2,6 +2,7 @@ import React from "react";
 import Header from "../Header";
 import "./HomeCss.css";
 import Navbar from "./Navbar";
+import { Link } from "react-router-dom";
 function Home()
 {
     return (
@@ -34,33 +35,33 @@ function Home()
       </div>
       
       <ul id="myUL">
-                    <li><a href="kangarooms-Agartala.html">Agartala</a></li>
-                    <li><a href="kangarooms-Aizawl.html">Aizawl</a></li>
-                    <li><a href="kangarooms-Amaravathi.html">Amaravathi</a></li>
-                    <li><a href="kangarooms-Bengaluru.html">Bengaluru</a></li>
-                    <li><a href="kangarooms-Bhopal.html">Bhopal</a></li>
-                    <li><a href="kangarooms-Bhubaneswar.html">Bhubaneswar</a></li>
-                    <li><a href="kangarooms-chhattisgarh.html">chhattisgarh</a></li>
-                    <li><a href="kangarooms-Chennai.html">Chennai</a></li>
-                    <li><a href="kangarooms-Dehradun.html">Dehradun </a></li>
-                    <li><a href="kangarooms-Dispur.html">Dispur</a></li>
-                    <li><a href="kangarooms-Gandhinagar.html">Gandhinagar</a></li>
-                    <li><a href="kangarooms-Gangtok.html">Gangtok</a></li>
-                    <li><a href="kangarooms-Hyderabad.html">Hyderabad</a></li>
-                    <li><a href="kangarooms-Imphal.html">Imphal</a></li>
-                    <li><a href="kangarooms-Itanagar.html">Itanagar</a></li>
-                    <li><a href="kangarooms-Jaipur.html">Jaipur</a></li>
-                    <li><a href="kangarooms-Kohima.html">Kohima</a></li>
-                    <li><a href="kangarooms-Kolkata.html">Kolkata</a></li>
-                    <li><a href="kangarooms-Lucknow.html">Lucknow</a></li>
-                    <li><a href="kangarooms-Mumbai.html">Mumbai</a></li>
-                    <li><a href="kangarooms-Panaji.html">Panaji</a></li>
-                    <li><a href="kangarooms-Patna.html">Patna</a></li>
-                    <li><a href="kangarooms-Raipur.html">Raipur</a></li>
-                    <li><a href="kangarooms-Ranchi.html">Ranchi</a></li>
-                    <li><a href="kangarooms-Shillong.html">Shillong</a></li>
-                    <li><a href="kangarooms-Shimla.html">Shimla</a></li>
-                    <li><a href="kangarooms-Thiruvananthapuram.html">Thiruvananthapuram</a></li>
+                    <li><nav><Link to='/Vizag'>Agartala</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Aizwal</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Amaravathi</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Bengaluru</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Bhopal</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Bhubaneswar</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Chhattisgarh</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Chennai</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Dehradun</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Dispur</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Gandhinagar</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Gangtok</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Hyderabad</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Imphal</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Itanagar</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Jaipur</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Kohima</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Kolkata</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Lucknow</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Mumbai</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Panaji</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Patna</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Raipur</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Ranchi</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Shillong</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Shimla</Link></nav></li>
+                    <li><nav><Link to='/Vizag'>Thiruvunanthapuram</Link></nav></li>
       </ul>
       </div>
     )
