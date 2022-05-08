@@ -19,7 +19,7 @@ function DuplicateApp2() {
     return (
         <>
         <Routes>
-            <Route path='/' element={<Home />} />
+            <Route path='/ReactKangarooms' element={<Home />} />
             <Route path='About' element={<About />} />
             <Route path="ContactUs" element={<ContactUs/>}/>
         </Routes>
