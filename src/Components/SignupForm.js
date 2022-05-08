@@ -1,8 +1,9 @@
 import React from "react";
-import InputField2 from "./InputField1";
-import InputField3 from "./InputField2";
-import InputField4 from "./inputField4";
-import RegisterButton from "./RegisterButton";
+import InputField2 from "../InputField1";
+import InputField3 from "../InputField2";
+import InputField4 from "../inputField4";
+import RegisterButton from "../RegisterButton";
+import "../style2.css";
 function SignUpForm()
 {
     return (

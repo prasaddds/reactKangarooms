@@ -17,6 +17,12 @@ function Navbar()
               <li className="nav-item">
               <Link to='/ContactUs' className="nav-link active" aria-current="page">Contact Us</Link>
               </li>
+              <li className="nav-item">
+              <Link to='/ContactUs' className="nav-link active" aria-current="page">Login</Link>
+              </li>
+              <li className="nav-item">
+              <Link to='/SignUpForm' className="nav-link active" aria-current="page">Signup</Link>
+              </li>
             </ul>
           </div>
         </div>
