@@ -22,6 +22,7 @@ function About() {
             Ahmedabad, Delhi, Gurgaon, Jaipur, Mumbai, Bangalore, Hyderabad, Goa, Chennai, Kolkata, and
             others. With the onset of 2016, Kangaroooms marked its footstep in Malaysia as well. The company
             is backed by investors like the Softbank Group, Greenoaks Capital, Sequoia Capital and Lightspeed India.
+            
         </div>
     )
 }

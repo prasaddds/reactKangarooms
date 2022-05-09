@@ -36,33 +36,33 @@ function Home()
       </div>
       
       <ul id="myUL">
-                    <li><nav><Link to='/Vizag'>Agartala</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Aizwal</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Amaravathi</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Bengaluru</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Bhopal</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Bhubaneswar</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Chhattisgarh</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Chennai</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Dehradun</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Dispur</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Gandhinagar</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Gangtok</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Hyderabad</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Imphal</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Itanagar</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Jaipur</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Kohima</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Kolkata</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Lucknow</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Mumbai</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Panaji</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Patna</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Raipur</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Ranchi</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Shillong</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Shimla</Link></nav></li>
-                    <li><nav><Link to='/Vizag'>Thiruvunanthapuram</Link></nav></li>
+                    <li><nav><Link to='/Agartala'>Agartala</Link></nav></li>
+                    <li><nav><Link to='/Aizawal'>Aizwal</Link></nav></li>
+                    <li><nav><Link to='/Amaravathi'>Amaravathi</Link></nav></li>
+                    <li><nav><Link to='/Bengaluru'>Bengaluru</Link></nav></li>
+                    <li><nav><Link to='/Bhopal'>Bhopal</Link></nav></li>
+                    <li><nav><Link to='/Bhubaneswar'>Bhubaneswar</Link></nav></li>
+                    <li><nav><Link to='/Chhattisgarh'>Chhattisgarh</Link></nav></li>
+                    <li><nav><Link to='/Chennai'>Chennai</Link></nav></li>
+                    <li><nav><Link to='/Dehradun'>Dehradun</Link></nav></li>
+                    <li><nav><Link to='/Dispur'>Dispur</Link></nav></li>
+                    <li><nav><Link to='/Gandhinagar'>Gandhinagar</Link></nav></li>
+                    <li><nav><Link to='/Gangtok'>Gangtok</Link></nav></li>
+                    <li><nav><Link to='/Hyderabad'>Hyderabad</Link></nav></li>
+                    <li><nav><Link to='/Imphal'>Imphal</Link></nav></li>
+                    <li><nav><Link to='/Itanagar'>Itanagar</Link></nav></li>
+                    <li><nav><Link to='/Jaipur'>Jaipur</Link></nav></li>
+                    <li><nav><Link to='/Kohima'>Kohima</Link></nav></li>
+                    <li><nav><Link to='/Kolkata'>Kolkata</Link></nav></li>
+                    <li><nav><Link to='/Lucknow'>Lucknow</Link></nav></li>
+                    <li><nav><Link to='/Mumbai'>Mumbai</Link></nav></li>
+                    <li><nav><Link to='/Panaji'>Panaji</Link></nav></li>
+                    <li><nav><Link to='/Patna'>Patna</Link></nav></li>
+                    <li><nav><Link to='/Raipur'>Raipur</Link></nav></li>
+                    <li><nav><Link to='/Ranchi'>Ranchi</Link></nav></li>
+                    <li><nav><Link to='/Shillong'>Shillong</Link></nav></li>
+                    <li><nav><Link to='/Shimla'>Shimla</Link></nav></li>
+                    <li><nav><Link to='/Thiruvunanthapuram'>Thiruvunanthapuram</Link></nav></li>
       </ul>
       </div>
     )

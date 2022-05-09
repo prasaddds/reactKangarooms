@@ -1,6 +1,6 @@
 import React from "react";
 import Card from "../Card";
-import contacts from "../Contact";
+import contacts from "../Contact2";
 import Header from "../Header";
 import Navbar from "./Navbar";
 function createCard(contact)
@@ -23,7 +23,7 @@ function createCard(contact)
     booked={contact.booked}
    lbooked={contact.lbooked}/>
 }
-function Vizag() {
+function Aizwal() {
  return (
  <div>
  <Header/>
@@ -32,4 +32,4 @@ function Vizag() {
  </div>
  );
 }
-export default Vizag;
+export default Aizwal;
