@@ -17,7 +17,7 @@ function About() {
             are audited every few days so that the customers are assured a quality experience. Kangarooms
             budget stay rangeS from 999 to 4,000 rupees. Kangarooms provides property owners with support
             such as quality standardized supplies and service training. A hotel can be added to their network
-            within 5-6 days after signing of agreement. Kangarooms Room’s growth is marvelous starting
+            within 5-6 days after signing of agreement. Kangarooms Room's growth is marvelous starting
             from One Hotel in Gurgaon in 2013 to 4500+ hotels in more than 173 Indian cities including
             Ahmedabad, Delhi, Gurgaon, Jaipur, Mumbai, Bangalore, Hyderabad, Goa, Chennai, Kolkata, and
             others. With the onset of 2016, Kangaroooms marked its footstep in Malaysia as well. The company

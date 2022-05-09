@@ -18,7 +18,7 @@ function Navbar()
               <Link to='/ContactUs' className="nav-link active" aria-current="page">Contact Us</Link>
               </li>
               <li className="nav-item">
-              <Link to='/LoginForm' className="nav-link active" aria-current="page">Login</Link>
+              <Link to='/LoginForm2' className="nav-link active" aria-current="page">Login</Link>
               </li>
               <li className="nav-item">
               <Link to='/SignUpForm2' className="nav-link active" aria-current="page">Signup</Link>

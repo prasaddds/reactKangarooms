@@ -2,7 +2,7 @@ import React from "react";
 function InputField4()
 {
     return (
-        <div> <br/> <br/>
+        <div> <br/>
             <input type="password" placeholder="Confirm Password"/>
         </div>
     )
