@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reactKangarooms/static/css/main.bc837b1f.css",
-    "main.js": "/reactKangarooms/static/js/main.adaecef3.js",
+    "main.css": "/reactKangarooms/static/css/main.20c1b242.css",
+    "main.js": "/reactKangarooms/static/js/main.bc95305c.js",
     "index.html": "/reactKangarooms/index.html",
-    "main.bc837b1f.css.map": "/reactKangarooms/static/css/main.bc837b1f.css.map",
-    "main.adaecef3.js.map": "/reactKangarooms/static/js/main.adaecef3.js.map"
+    "main.20c1b242.css.map": "/reactKangarooms/static/css/main.20c1b242.css.map",
+    "main.bc95305c.js.map": "/reactKangarooms/static/js/main.bc95305c.js.map"
   },
   "entrypoints": [
-    "static/css/main.bc837b1f.css",
-    "static/js/main.adaecef3.js"
+    "static/css/main.20c1b242.css",
+    "static/js/main.bc95305c.js"
   ]
 }
