@@ -10,7 +10,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "Purple",
       ltheme: "https://i.pinimg.com/736x/af/7d/1f/af7d1fcfe8aeab109afb7ff5d2cdc7ca--purple-walls-bedspreads.jpg",
-      location: "Shanthi Nagar,Vizag",
+      location: "Geeta Guest house,Abhayan",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -19,7 +19,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://c8.alamy.com/comp/JDEK1G/interior-of-cozy-bedroom-in-bright-violet-tones-large-mirrored-wardrobe-JDEK1G.jpg"
+        "https://donpedrobrooklyn.com/wp-content/uploads/2017/05/high-head-board-purple-bedroom.jpg"
       
     },
     {
@@ -33,7 +33,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Maddhilapalem, Vizag",
+      location: "Hotel Himalaya,Neermahal",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Single/Couple",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -42,7 +42,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://media-cdn.tripadvisor.com/media/vr-splice-j/0a/f0/23/25.jpg"
+        "https://evolveindia.co/wp-content/uploads/2021/07/2-_-Designs-That-Are-Class-Apart-Modern-Bedroom-Interior-Design.jpg"
     },
     {
       id:3,
@@ -55,7 +55,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Kancherapalem, Vizag",
+      location: "Polo Towers,Rantali",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -64,7 +64,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://assets-news.housing.com/news/wp-content/uploads/2022/01/25201250/Master-bedroom-design-A-pictorial-guide-FB-1200x700-compressed.jpg"
+        "http://cdn.home-designing.com/wp-content/uploads/2018/08/modern-platform-bedroom-sets.jpg"
     },
     {
       id:4,
@@ -77,7 +77,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Sabbavaram, Vizag",
+      location: "Hotel Himalaya,Neermahal",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -86,7 +86,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://5.imimg.com/data5/SELLER/Default/2020/11/EU/NW/JY/23717759/master-bedroom-design-500x500.jpg"
+        "https://i.ytimg.com/vi/M71bzLFgt1U/maxresdefault.jpg"
     },
     {
       id:5,
@@ -99,7 +99,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Pendurthi, Vizag",
+      location: "Geeta Guest house,Abhayan",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -108,7 +108,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://5.imimg.com/data5/ANDROID/Default/2021/2/KD/RM/VC/99223263/product-jpeg-500x500.jpg"
+        "https://i.ytimg.com/vi/COeLJqigrco/maxresdefault.jpg"
     },
     {
       id:6,
@@ -121,7 +121,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Vuda Coloney, Vizag",
+      location: "Polo Towers,Rantali",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -130,7 +130,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://i.pinimg.com/736x/10/e7/d0/10e7d0d65a263a887a7f7eb74b01bd23--very-small-bedroom-small-square-bedroom-ideas.jpg"
+        "https://www.re-thinkingthefuture.com/wp-content/uploads/2021/04/A3762-20-Futuristic-bedroom-interior-ideas.jpg"
       
     },
     {
@@ -144,7 +144,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "NAD ,Vizag",
+      location: "Aakash Nivas,Nagarkurnool",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Single/Couple",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -153,7 +153,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/white-bedroom-perfection-1559158595.jpg"
+        "https://i.pinimg.com/originals/39/d8/b8/39d8b8d4037a1c1acc02d3183398eab4.jpg"
     },
     {
       id:8,
@@ -166,7 +166,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Madhurawada ,Vizag",
+      location: "Near Geological park,Malkajgiri",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -175,7 +175,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://foyr.com/learn/wp-content/uploads/2019/01/master-bedroom.png"
+        "https://images.unsplash.com/photo-1616594039964-ae9021a400a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YmVkcm9vbSUyMGludGVyaW9yfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
     },
     {
       id:9,
@@ -188,7 +188,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Parwada ,Vizag",
+      location: "Hotel Himalaya,Neermahal",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -197,7 +197,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://www.thesleepjudge.com/wp-content/uploads/2017/05/Light-and-Space.jpg"
+        "https://media.designcafe.com/wp-content/uploads/2022/04/01164258/elegant-white-wardrobe-designs-for-bedroom.jpg"
     },
     {
       id:10,
@@ -210,7 +210,7 @@ const contacts = [
       lbreakfast: "https://cdn3.vectorstock.com/i/1000x1000/62/62/breakfast-symbol-collection-design-vector-35626262.jpg",
       theme: "White",
       ltheme: "https://i.pinimg.com/originals/d5/b8/17/d5b817d558fc14a63f41f95c25ca7ba9.jpg",
-      location: "Simhachalam ,Vizag",
+      location: "Ginger Agartala,Agaratala",
       llocation: "https://cdn5.vectorstock.com/i/1000x1000/35/84/location-symbol-map-geography-direction-vector-24273584.jpg",
       type: "Family",
       ltype: "https://cdn2.vectorstock.com/i/1000x1000/58/61/family-symbol-isolated-vector-1825861.jpg",
@@ -219,7 +219,7 @@ const contacts = [
       booked: "Booked: 0",
       lbooked:"https://image.shutterstock.com/image-vector/keep-door-closed-graphic-sign-260nw-1485053927.jpg",
       imgURL:
-        "https://www.sa-venues.com/visit/turbinehotel/04.jpg"
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGU0a7Jj4mf_-i-8_iYBDpdZaEaAREvyclU01n9M0t6zpl8hC5O8u9L9MOOzLaPZNycGc&usqp=CAU"
     }
   ];
   

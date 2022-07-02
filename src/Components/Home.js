@@ -4,11 +4,13 @@ import "./HomeCss.css";
 import Navbar from "./Navbar";
 import { Link } from "react-router-dom";
 import "../style1.css";
+import Quote from "./quote";
 function Home()
 {
     return (
         <div>
         <Header/>
+        <Quote/>
         <Navbar/>
         <div id="carouselExampleCaptions" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-indicators">
@@ -37,7 +39,7 @@ function Home()
       
       <ul id="myUL">
                     <li><nav><Link to='/Agartala'>Agartala</Link></nav></li>
-                    <li><nav><Link to='/Aizawal'>Aizwal</Link></nav></li>
+                    <li><nav><Link to='/Aizwal'>Aizwal</Link></nav></li>
                     <li><nav><Link to='/Amaravathi'>Amaravathi</Link></nav></li>
                     <li><nav><Link to='/Bengaluru'>Bengaluru</Link></nav></li>
                     <li><nav><Link to='/Bhopal'>Bhopal</Link></nav></li>

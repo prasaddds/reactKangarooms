@@ -32,6 +32,7 @@ import Ranchi from "./Components/Ranchi";
 import Shillong from "./Components/Shillong";
 import Shimla from "./Components/Shimla";
 import Thiruvunanthapuram from "./Components/Thiruvunanthapuram";
+import Quote from "./Components/quote";
 function DuplicateApp2() {
     return (
         <>
@@ -41,6 +42,8 @@ function DuplicateApp2() {
             <Route path='About' element={<About />} />
             <Route path="ContactUs" element={<ContactUs/>}/>
             <Route path="Dfault" element={<Dfault/>}/>
+            </Routes>  
+            <Routes>
             <Route path="Agartala" element={<Agartala/>}/>
             <Route path="Aizwal" element={<Aizwal/>}/>
             <Route path="Amaravathi" element={<Amaravathi/>}/>
